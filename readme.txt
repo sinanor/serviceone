@@ -1,4 +1,4 @@
-System requirements: Java 8 JRE, Maven
+System requirements: Java 8 JDK, Maven
 
 Running The Application:
 
